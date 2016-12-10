@@ -1,0 +1,19 @@
+{
+  "name": "mizu-kirij",
+  "version": "1.0.0",
+  "description": "stone skipping game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesMoulang/mizu-kirij.git"
+  },
+  "author": "James Moulang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesMoulang/mizu-kirij/issues"
+  },
+  "homepage": "https://github.com/JamesMoulang/mizu-kirij#readme"
+}
